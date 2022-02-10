@@ -1,0 +1,25 @@
+.display{
+    display: flex;
+    justify-content: center ; 
+    align-items: center;
+    flex-direction: column; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;  
+}
+.form1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lablePadding{
+    align-self: start;
+    padding-bottom: 5px;
+}
+
+.pstyle{
+    color:yellow;
+    background-color: violet;
+    padding: 30px;
+    text-align: center;
+}
